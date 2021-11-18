@@ -13,4 +13,4 @@
 ## contacts
 
 [<img align="left" alt="novelb.me" width="44px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://novelb.me)
-[<img align="left" alt="Novel Bafagih | LinkedIn" width="44px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/novel-bafagih/)
+[<img align="left" alt="Novel Bafagih | LinkedIn" width="44px" src=external-linkedin-social-media-justicon-flat-justicon.png"https://img.icons8.com/external-justicon-flat-justicon/44/000000/" />](https://www.linkedin.com/in/novel-bafagih/)
