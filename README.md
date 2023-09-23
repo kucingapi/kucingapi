@@ -1,6 +1,5 @@
 # Hi My Name Is Novel Bafagih
 
-[![kucingapi GitHub stats](https://github-readme-stats.vercel.app/api?username=kucingapi)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kucingapi)](https://github.com/anuraghazra/github-readme-stats)
 
